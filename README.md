@@ -50,7 +50,7 @@ Convolutional neural network for chest X-ray classification, integrated with a S
 
 Real-time YOLOv8 detection system for 5 waste classes. Built a custom hybrid dataset of 6,243 annotated images (open-source + AI-generated) with manual bounding box annotation. Selected YOLOv8 Accurate configuration over Fast to improve discrimination between visually similar bin types. Designed for edge deployment on NVIDIA Jetson Nano / Raspberry Pi 4.
 
-**Results:** mAP@50 84.4% · Precision 87.8% · Recall 78.5% · F1 82.9%
+**Results:** mAP@50 86.4% · Precision 87.8% · Recall 78.5% · F1 82.9%
 
 `Python` `YOLOv8` `Roboflow` `Computer Vision` `Dataset Curation`
 
