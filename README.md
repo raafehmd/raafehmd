@@ -21,6 +21,24 @@ Transferred from Ontario Tech University (Canada) · Now based full-time in Duba
 
 ---
 
+## Education
+
+**Canadian University Dubai** — B.Sc. Computer Science · GPA 3.89 / 4.0 · Expected June 2026
+*Transfer from Ontario Tech University, Canada (2020–2022)*
+
+---
+
+## Skills
+
+| Category | Technologies |
+|---|---|
+| Languages | Python · C++ · C · Java · Bash · SQL |
+| ML / AI | TensorFlow · Keras · scikit-learn · YOLOv8 · NumPy |
+| Tools & Platforms | Git · GitHub · MySQL · Hadoop/HDFS · Linux · Streamlit · Roboflow |
+| Concepts | CNNs · Object Detection · Adversarial ML · GANs · ACID · Distributed Systems |
+
+---
+
 ## Projects
 
 ### Hybrid Deepfake Defense System *(Graduation Project — In Progress)*
@@ -66,27 +84,3 @@ Designed and optimized a multi-entity retail database under heavy transactional 
 `MySQL` `SQL` `Hadoop` `HDFS` `MapReduce` `ACID`
 
 *Repository coming soon.*
-
----
-
-## Skills
-
-| Category | Technologies |
-|---|---|
-| Languages | Python · C++ · C · Java · Bash · SQL |
-| ML / AI | TensorFlow · Keras · scikit-learn · YOLOv8 · NumPy |
-| Tools & Platforms | Git · GitHub · MySQL · Hadoop/HDFS · Linux · Streamlit · Roboflow |
-| Concepts | CNNs · Object Detection · Adversarial ML · GANs · ACID · Distributed Systems |
-
----
-
-## Education
-
-**Canadian University Dubai** — B.Sc. Computer Science · GPA 3.89 / 4.0 · Expected June 2026
-*Transfer from Ontario Tech University, Canada (2020–2022)*
-
----
-
-## Languages
-
-English (Fluent) · Arabic — MSA (Bilingual) · Urdu (Fluent) · Hindi (Fluent)
