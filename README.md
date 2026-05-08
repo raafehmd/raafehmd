@@ -17,13 +17,12 @@ Final-year CS student building AI-integrated systems — from adversarial deepfa
 
 Currently seeking a **software engineering internship in the UAE** while finishing my graduation project on adversarial machine learning.
 
-Transferred from Ontario Tech University (Canada) · Now based full-time in Dubai.
-
 ---
 
 ## Education
 
 **Canadian University Dubai** — B.Sc. Computer Science · GPA 3.89 / 4.0 · Expected June 2026
+
 *Transfer from Ontario Tech University, Canada (2020–2022)*
 
 ---
